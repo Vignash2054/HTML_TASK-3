@@ -1,0 +1,28 @@
+h1{
+    color: darkblue;
+    background-color: rgb(92, 193, 196);
+    text-align: center;
+    border: 1px solid darkblue;
+}
+body{
+    background-image: url(bg.jpg);
+    width:800px;
+    height:250px;
+    margin-left: 250px;
+}
+p{
+    color:rgb(142, 62, 32);
+    border:1px solid rgb(139, 175, 142);
+    background-color:rgb(224, 200, 165);
+}
+b{
+    color: rgb(60, 45, 122);
+}
+div{
+    color:rgb(150, 198, 150);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    margin-left: 300px;
+    border-radius:50%;
+}
